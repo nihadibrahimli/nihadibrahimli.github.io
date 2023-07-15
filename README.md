@@ -15,4 +15,4 @@ Welcome to my SözAltı application! This is a fun and interactive word-guessing
 If you have any questions, feedback, or would like to get in touch, please feel free to reach out using the contact form below.
 
 <!-- Contact Form -->
-[Contact Form](nihadibrahimli@gmail.com)
+nihadibrahimli@gmail.com
